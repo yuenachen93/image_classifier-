@@ -5,4 +5,4 @@
 - Deep Learning: CNN
 - Structure: - Convolution - Max Pooling - Convolution - Max Pooling - Fully Connected - Fully Connected - Classifier
 ### Prediction example
-![Predictions]('https://github.com/yuenachen93/image_classifier-/blob/master/imgs/predicts.png')
+![Predictions]('https://github.com/yuenachen93/image_classifier-/imgs/predicts.png')
